@@ -40,16 +40,6 @@ This is a simulated Agile project for an e-commerce platform named **AMZN**, ins
 
 ---
 
-## Dummy Payment Logic
-
-To simulate the checkout process, a **dummy payment gateway** was used. Users can enter any valid-looking card number (e.g., `4111 1111 1111 1111`) and receive an **Order Confirmation** message.
-
-- No real transactions were processed.
-- Bug Encountered: AMEX BIN range (`34xxxxxxxxxxxxxx`) was initially blocked.
-- Bug was fixed in Sprint 2.
-
----
-
 ## How This Project Helps
 
 This project demonstrates:
