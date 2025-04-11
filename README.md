@@ -1,13 +1,13 @@
-# AMZN Mini E-Commerce Project (Jira + Confluence + GitHub Showcase)
+# AMZN E-Commerce Project
 
-This is a simulated Agile project for an e-commerce platform named **AMZN**, inspired by Amazon. The goal was to build a working MVP (Minimum Viable Product) followed by additional feature expansion. The project was executed using **Scrum methodology** over **2 sprints (2 weeks each)** and tracked using **Jira**, with documentation in **Confluence**.
+This is a simulated Agile project for an e-commerce platform named **AMZN**, inspired by Amazon. The goal was to build a working MVP (Minimum Viable Product) followed by additional feature expansion. The project was executed using **Scrum methodology** over **2 sprints (2 weeks each)** and tracked using **Jira**
 
 ---
 
 ## Project Overview
 
-- **Project Type:** Agile Mini Project (Scrum)
-- **Tools Used:** Jira, Confluence, GitHub
+- **Project Type:** Agile Project (Scrum)
+- **Tools Used:** Jira
 - **Sprints:** 2
 - **Versioned Releases:** AMZN V1.1 (MVP), AMZN V1.2 (Feature Expansion)
 
@@ -67,9 +67,7 @@ This project demonstrates:
 - Order tracking dashboard
 
 ---
-
-## amzn-jira-project
-## 📁 Project Structure
+## Project Structure
 
 - `README.md` – Project overview, features, and Jira details  
 - `docs/` – Documentation folder  
